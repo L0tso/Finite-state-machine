@@ -4,7 +4,7 @@
 #include <string>
 #include <algorithm>
 #include <map>
-#include "moincpp.h"
+
 using namespace std;
 
 void readAlphabet(string str, deque<char> & alphabet)
